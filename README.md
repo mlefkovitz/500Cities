@@ -1,4 +1,4 @@
-# Visualization of relationship between ​chronic diseases and preventions in 500 US Cities​
+# Visualization of relationships between ​chronic diseases and preventions in 500 US Cities​
 
 
 ### Description
